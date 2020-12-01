@@ -3,7 +3,7 @@
 - 🔭 I’m currently working during the academic year at the Weiss Lab in MIT
 - 🌄 I’m currently studying at Caltech
 - ♨️ I have experience with C, Java, and Python 
-- :octocat: My goal for 2020 - 2021 is to contribute more to open source
+- :octocat: My goal for 2020 - 2021 is to contribute more to open source projects
 - 📚 Some courses I have taken: Discrete Mathematics, Data Structures, Machine Learning, Linear Algebra, Multivariable Calculus, Computing Systems, Objected Oriented Programing
 - ✈️ Willing to Travel for work 🚵
 - 💬 Feel free to reach out!
