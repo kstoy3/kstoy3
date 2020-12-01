@@ -4,7 +4,7 @@
 - 🌄 I’m currently studying at Caltech
 - ♨️ I have experience with C, Java, and Python 
 - :octocat: My goal for 2020 - 2021 is to contribute more to open source
-- 📚 Courses I have taken: Discrete Mathematics, Data Structures, Machine Learning, Linear Algebra, Multivariable Calculus, Computing Systems, Objected Oriented Programing ...
+- 📚 Some courses I have taken: Discrete Mathematics, Data Structures, Machine Learning, Linear Algebra, Multivariable Calculus, Computing Systems, Objected Oriented Programing
 - ✈️ Willing to Travel for work 🚵
 - 💬 Feel free to reach out!
 - 🎆 [LinkedIn](https://www.linkedin.com/in/kristina-a-stoyanova/) 🌌
