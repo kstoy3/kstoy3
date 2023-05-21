@@ -9,10 +9,8 @@
 - 💬 Feel free to reach out!
 - 🎆 [LinkedIn](https://www.linkedin.com/in/kristina-a-stoyanova/) 🌌
 <!--
-**kstoy3/kstoy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Emoji's I like:
+
 🎆 📘 💬 🌄 🌱 🎒 🌷 🌼 🚵
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
