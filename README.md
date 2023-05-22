@@ -8,6 +8,8 @@
 - ✈️ Willing to Travel for work 🚵
 - 💬 Feel free to reach out!
 - 🎆 [LinkedIn](https://www.linkedin.com/in/kristina-a-stoyanova/) 🌌
+
+Profile picture by DALL-E-2
 <!--
 
 🎆 📘 💬 🌄 🌱 🎒 🌷 🌼 🚵
